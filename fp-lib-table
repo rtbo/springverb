@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SparkFun-Electromechanical")(type "KiCad")(uri "${KIPRJMOD}/lib/SparkFun-Electromechanical.pretty")(options "")(descr ""))
+)
